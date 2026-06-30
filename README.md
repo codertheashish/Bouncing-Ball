@@ -122,3 +122,4 @@ The game opens with:
 **Ashish Kumar Prajapati**
 
 ---
+<img width="1672" height="941" alt="Bouncing_ball" src="https://github.com/user-attachments/assets/ddf596e3-209e-42d9-a875-6e6551752371" />
